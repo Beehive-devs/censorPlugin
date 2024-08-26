@@ -1,0 +1,5 @@
+name: censorPlugin
+version: '1.0-SNAPSHOT'
+main: org.filepile.censorplugin.CensorPlugin
+api-version: '1.20'
+load: STARTUP
